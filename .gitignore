@@ -21,9 +21,9 @@ build
 coverage
 
 # Environment varibles
-*.env
-*.env.test
-*.env copy
+# *.env
+# *.env.test
+# *.env copy
 
 #keys
 keys/*
